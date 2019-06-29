@@ -1,6 +1,1 @@
-# Northwestern_Project_1
-Emrah was here!
-and so is Paul.   
-Petra Lee Lee
-
-Git Branch Test Branch
+Petra Lee Northwestern_Project_1 Branch 
