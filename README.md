@@ -1,7 +1,5 @@
-# Northwestern_Project_1
-Emrah was here!
-and so is Paul.   
-Petra ! 
-Hello!!!
+# Northwestern_Project_1 
+# Project Members
+Emrah, Paul, Petra, OLGA, Joel, James 
 
-Paul is editing for better or worse.  
+Lets Ace this Project!! 
