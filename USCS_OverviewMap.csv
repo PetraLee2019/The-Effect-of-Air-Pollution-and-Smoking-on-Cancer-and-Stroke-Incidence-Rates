@@ -1,0 +1,52 @@
+Area,CancerType,Year,Sex,AgeAdjustedRate,CaseCount,Population
+Wyoming,All Types of Cancer,2012-2016,Male and Female,397.3,13189,2913295
+Alaska,All Types of Cancer,2012-2016,Male and Female,413,13918,3683845
+North Dakota,All Types of Cancer,2012-2016,Male and Female,453.8,18624,3673353
+South Dakota,All Types of Cancer,2012-2016,Male and Female,456,22571,4240122
+Vermont,All Types of Cancer,2012-2016,Male and Female,452.7,18390,3125124
+District of Columbia,All Types of Cancer,2012-2016,Male and Female,432.6,14088,3303613
+Maine,All Types of Cancer,2012-2016,Male and Female,475.9,43501,6642998
+Montana,All Types of Cancer,2012-2016,Male and Female,454.4,29507,5102347
+New Hampshire,All Types of Cancer,2012-2016,Male and Female,483.5,40645,6637378
+New Mexico,All Types of Cancer,2012-2016,Male and Female,374.3,45580,10419654
+Rhode Island,All Types of Cancer,2012-2016,Male and Female,477.5,30813,5273809
+Delaware,All Types of Cancer,2012-2016,Male and Female,498.4,29017,4673592
+Hawaii,All Types of Cancer,2012-2016,Male and Female,414.4,35637,7073523
+Idaho,All Types of Cancer,2012-2016,Male and Female,440.5,39619,8164601
+Kentucky,All Types of Cancer,2012-2016,Male and Female,520.9,134729,22051379
+Louisiana,All Types of Cancer,2012-2016,Male and Female,480.8,124495,23235641
+Mississippi,All Types of Cancer,2012-2016,Male and Female,468.6,79614,14929974
+Nebraska,All Types of Cancer,2012-2016,Male and Female,451.6,48151,9404363
+Nevada,All Types of Cancer,2012-2016,Male and Female,392.6,62045,14192998
+Oklahoma,All Types of Cancer,2012-2016,Male and Female,452.9,99185,19365706
+Oregon,All Types of Cancer,2012-2016,Male and Female,429.8,103949,19876783
+South Carolina,All Types of Cancer,2012-2016,Male and Female,457.3,133649,24161874
+Utah,All Types of Cancer,2012-2016,Male and Female,402.9,50736,14722092
+West Virginia,All Types of Cancer,2012-2016,Male and Female,476,58265,9223721
+Alabama,All Types of Cancer,2012-2016,Male and Female,451.9,130550,24193046
+Arkansas,All Types of Cancer,2012-2016,Male and Female,467.8,82754,14834645
+Colorado,All Types of Cancer,2012-2016,Male and Female,401.4,113506,26761747
+Connecticut,All Types of Cancer,2012-2016,Male and Female,472.4,104215,17981910
+Iowa,All Types of Cancer,2012-2016,Male and Female,475.2,89030,15519167
+Kansas,All Types of Cancer,2012-2016,Male and Female,464.5,75855,14491289
+Maryland,All Types of Cancer,2012-2016,Male and Female,450.5,152221,29819892
+Massachusetts,All Types of Cancer,2012-2016,Male and Female,449.4,180609,33746413
+Michigan,All Types of Cancer,2012-2016,Male and Female,449.8,270233,49552119
+Minnesota,All Types of Cancer,2012-2016,Male and Female,463.8,144978,27254706
+Missouri,All Types of Cancer,2012-2016,Male and Female,455.2,164733,30286239
+New Jersey,All Types of Cancer,2012-2016,Male and Female,483.4,254688,44677257
+New York,All Types of Cancer,2012-2016,Male and Female,482.9,557634,98767136
+North Carolina,All Types of Cancer,2012-2016,Male and Female,466.1,268181,49744729
+Ohio,All Types of Cancer,2012-2016,Male and Female,461.9,324292,57937136
+Pennsylvania,All Types of Cancer,2012-2016,Male and Female,487,395301,63915034
+Tennessee,All Types of Cancer,2012-2016,Male and Female,462.6,178461,32721564
+Texas,All Types of Cancer,2012-2016,Male and Female,407.7,535471,134871784
+Virginia,All Types of Cancer,2012-2016,Male and Female,418.7,195391,41548394
+Washington,All Types of Cancer,2012-2016,Male and Female,451,179064,35334992
+Wisconsin,All Types of Cancer,2012-2016,Male and Female,466.9,160800,28741681
+Arizona,All Types of Cancer,2012-2016,Male and Female,387,152239,33577674
+California,All Types of Cancer,2012-2016,Male and Female,404.8,826207,193396587
+Florida,All Types of Cancer,2012-2016,Male and Female,451.9,609578,99749157
+Georgia,All Types of Cancer,2012-2016,Male and Female,466.4,245017,50489947
+Illinois,All Types of Cancer,2012-2016,Male and Female,466.2,338415,64349112
+Indiana,All Types of Cancer,2012-2016,Male and Female,457.1,171209,32940934
