@@ -1,0 +1,919 @@
+Year,Area,CancerType,AgeAdjustedRate,lci,uci,CaseCount,Population
+1999,Utah,Lung and Bronchus,33.9,31.1,37,521,2203482
+1999,Colorado,Lung and Bronchus,51.6,49.3,54.1,1765,4226018
+1999,New Mexico,Lung and Bronchus,48.5,45.2,51.9,810,1808082
+1999,North Dakota,Lung and Bronchus,53.5,48.2,59.3,374,644259
+1999,Arizona,Lung and Bronchus,59.7,57.6,61.8,3049,5023823
+1999,Hawaii,Lung and Bronchus,55.3,51.3,59.6,687,1210300
+1999,Idaho,Lung and Bronchus,54.4,50.2,58.8,629,1275674
+1999,Minnesota,Lung and Bronchus,57.2,55.1,59.5,2647,4873481
+1999,California,Lung and Bronchus,61,60.1,61.9,17481,33499204
+1999,Connecticut,Lung and Bronchus,68.5,65.8,71.2,2491,3386401
+1999,Iowa,Lung and Bronchus,67.6,64.8,70.5,2204,2917634
+1999,Kansas,Lung and Bronchus,66.6,63.6,69.8,1802,2678338
+1999,Montana,Lung and Bronchus,63.4,58.5,68.7,601,897507
+1999,Nebraska,Lung and Bronchus,61.5,57.9,65.3,1086,1704764
+1999,New Jersey,Lung and Bronchus,68.6,66.9,70.4,5966,8359592
+1999,New York,Lung and Bronchus,66.3,65.1,67.5,12675,18882725
+1999,Virginia,Lung and Bronchus,63,61.1,65,4112,7000174
+1999,Wisconsin,Lung and Bronchus,66.4,64.3,68.6,3598,5332666
+1999,Wyoming,Lung and Bronchus,60.5,53.6,68,281,491780
+1999,Alabama,Lung and Bronchus,72.8,70.4,75.4,3339,4430141
+1999,Alaska,Lung and Bronchus,79.2,69.4,89.8,275,624779
+1999,Arkansas,Lung and Bronchus,null,null,null,Data Suppressed,null
+1999,Delaware,Lung and Bronchus,82.3,76.1,88.9,654,774990
+1999,District of Columbia,Lung and Bronchus,76,68.9,83.7,420,570213
+1999,Florida,Lung and Bronchus,77.7,76.5,79,15676,15759421
+1999,Georgia,Lung and Bronchus,74.4,72.3,76.5,4942,8045965
+1999,Illinois,Lung and Bronchus,74,72.4,75.5,8763,12359020
+1999,Indiana,Lung and Bronchus,80,77.7,82.3,4762,6044969
+1999,Kentucky,Lung and Bronchus,100.2,97.2,103.4,4050,4018053
+1999,Louisiana,Lung and Bronchus,84.3,81.5,87.1,3490,4460811
+1999,Maine,Lung and Bronchus,78.4,73.8,83.2,1108,1266808
+1999,Maryland,Lung and Bronchus,75.5,73,77.9,3699,5254509
+1999,Massachusetts,Lung and Bronchus,72.9,70.8,75,4804,6317345
+1999,Michigan,Lung and Bronchus,75.3,73.6,77.1,7290,9897116
+1999,Mississippi,Lung and Bronchus,null,null,null,Data Suppressed,null
+1999,Missouri,Lung and Bronchus,81.6,79.3,83.9,4753,5561948
+1999,Nevada,Lung and Bronchus,81.6,77.3,85.9,1460,1934718
+1999,New Hampshire,Lung and Bronchus,70.9,66.2,75.9,840,1222014
+1999,North Carolina,Lung and Bronchus,70.7,68.9,72.6,5512,7949361
+1999,Ohio,Lung and Bronchus,77.8,76.2,79.4,9174,11335454
+1999,Oklahoma,Lung and Bronchus,80.4,77.5,83.5,2851,3437147
+1999,Oregon,Lung and Bronchus,74,71.1,76.9,2551,3393941
+1999,Pennsylvania,Lung and Bronchus,69.5,68.2,70.9,9999,12263805
+1999,Rhode Island,Lung and Bronchus,80.4,75.2,85.8,916,1040402
+1999,South Carolina,Lung and Bronchus,76.5,73.8,79.3,3004,3974682
+1999,South Dakota,Lung and Bronchus,null,null,null,Data Suppressed,null
+1999,Tennessee,Lung and Bronchus,69.5,67.4,71.7,3957,5638706
+1999,Texas,Lung and Bronchus,71.3,70,72.6,11968,20558220
+1999,Vermont,Lung and Bronchus,71.3,64.8,78.3,438,604683
+1999,Washington,Lung and Bronchus,74,71.7,76.3,3950,5842564
+1999,West Virginia,Lung and Bronchus,94.9,90.9,99.2,2034,1811799
+2000,Utah,Lung and Bronchus,28.2,25.6,31,440,2244502
+2000,Colorado,Lung and Bronchus,53.6,51.2,56.1,1886,4326921
+2000,Hawaii,Lung and Bronchus,51.6,47.7,55.7,653,1213519
+2000,New Mexico,Lung and Bronchus,49.2,45.9,52.6,842,1821204
+2000,California,Lung and Bronchus,60,59.1,60.9,17523,33987977
+2000,Minnesota,Lung and Bronchus,57.2,55.1,59.4,2682,4933692
+2000,North Dakota,Lung and Bronchus,55.3,49.9,61.2,382,642023
+2000,Wyoming,Lung and Bronchus,54,47.6,61.1,255,494300
+2000,Arizona,Lung and Bronchus,60.7,58.6,62.9,3185,5160586
+2000,Connecticut,Lung and Bronchus,67.3,64.6,70,2465,3411777
+2000,District of Columbia,Lung and Bronchus,64,57.5,71,356,572046
+2000,Idaho,Lung and Bronchus,62.9,58.5,67.6,743,1299430
+2000,Iowa,Lung and Bronchus,68.3,65.5,71.2,2234,2929067
+2000,Kansas,Lung and Bronchus,64.2,61.2,67.3,1745,2693681
+2000,Nebraska,Lung and Bronchus,62.4,58.7,66.2,1103,1713820
+2000,New Jersey,Lung and Bronchus,68.4,66.7,70.2,6014,8430621
+2000,New York,Lung and Bronchus,67.4,66.2,68.5,13052,19001780
+2000,Vermont,Lung and Bronchus,65.5,59.3,72.2,411,609618
+2000,Virginia,Lung and Bronchus,63.1,61.1,65,4191,7105817
+2000,Wisconsin,Lung and Bronchus,63.4,61.3,65.6,3472,5373999
+2000,Alabama,Lung and Bronchus,74.4,71.9,76.9,3440,4452173
+2000,Alaska,Lung and Bronchus,72.2,63,82.2,260,627963
+2000,Arkansas,Lung and Bronchus,null,null,null,Data Suppressed,null
+2000,Delaware,Lung and Bronchus,77.5,71.5,83.8,629,786373
+2000,Florida,Lung and Bronchus,78,76.8,79.3,16027,16047515
+2000,Georgia,Lung and Bronchus,78,75.9,80.1,5281,8227303
+2000,Illinois,Lung and Bronchus,72.3,70.8,73.9,8620,12434161
+2000,Indiana,Lung and Bronchus,79.1,76.9,81.4,4757,6091866
+2000,Kentucky,Lung and Bronchus,101.5,98.5,104.7,4157,4049021
+2000,Louisiana,Lung and Bronchus,82,79.2,84.7,3433,4471885
+2000,Maine,Lung and Bronchus,81.5,76.9,86.3,1173,1277072
+2000,Maryland,Lung and Bronchus,71.6,69.3,74,3580,5311034
+2000,Massachusetts,Lung and Bronchus,71.8,69.7,73.8,4781,6361104
+2000,Michigan,Lung and Bronchus,75,73.3,76.7,7338,9952450
+2000,Mississippi,Lung and Bronchus,null,null,null,Data Suppressed,null
+2000,Missouri,Lung and Bronchus,77.1,74.9,79.4,4542,5607285
+2000,Montana,Lung and Bronchus,71.7,66.4,77.2,690,903773
+2000,Nevada,Lung and Bronchus,85.6,81.3,90,1585,2018741
+2000,New Hampshire,Lung and Bronchus,71.6,66.9,76.6,868,1239882
+2000,North Carolina,Lung and Bronchus,71.7,69.8,73.6,5685,8081614
+2000,Ohio,Lung and Bronchus,74.4,72.8,76,8832,11363543
+2000,Oklahoma,Lung and Bronchus,82.7,79.8,85.8,2965,3454365
+2000,Oregon,Lung and Bronchus,71,68.2,73.8,2483,3429708
+2000,Pennsylvania,Lung and Bronchus,69.8,68.4,71.2,10093,12284173
+2000,Rhode Island,Lung and Bronchus,80.7,75.5,86.1,924,1050268
+2000,South Carolina,Lung and Bronchus,75,72.3,77.7,3000,4024223
+2000,South Dakota,Lung and Bronchus,null,null,null,Data Suppressed,null
+2000,Tennessee,Lung and Bronchus,69.3,67.2,71.5,3991,5703719
+2000,Texas,Lung and Bronchus,69.9,68.7,71.2,11985,20944499
+2000,Washington,Lung and Bronchus,71.3,69.1,73.6,3873,5910512
+2000,West Virginia,Lung and Bronchus,92.9,88.8,97,2001,1807021
+2001,Utah,Lung and Bronchus,31.6,28.9,34.5,507,2283715
+2001,Hawaii,Lung and Bronchus,47.6,43.9,51.5,617,1225948
+2001,New Mexico,Lung and Bronchus,46.8,43.6,50.1,824,1831690
+2001,Idaho,Lung and Bronchus,52.3,48.3,56.6,631,1319962
+2001,Wyoming,Lung and Bronchus,50.5,44.3,57.2,245,494657
+2001,California,Lung and Bronchus,59.1,58.2,59.9,17588,34479458
+2001,Colorado,Lung and Bronchus,56.3,53.9,58.9,2019,4425687
+2001,Minnesota,Lung and Bronchus,58.3,56.2,60.5,2773,4982796
+2001,North Dakota,Lung and Bronchus,55,49.6,60.8,384,639062
+2001,South Dakota,Lung and Bronchus,59.9,54.7,65.5,487,757972
+2001,Arizona,Lung and Bronchus,61.7,59.6,63.9,3308,5273477
+2001,Connecticut,Lung and Bronchus,68.7,66.1,71.5,2546,3432835
+2001,Iowa,Lung and Bronchus,66.4,63.6,69.2,2189,2931997
+2001,Kansas,Lung and Bronchus,64.6,61.6,67.7,1774,2702162
+2001,Maryland,Lung and Bronchus,66.5,64.3,68.8,3388,5374691
+2001,Nebraska,Lung and Bronchus,63.3,59.7,67.1,1124,1719836
+2001,New Hampshire,Lung and Bronchus,69,64.4,73.8,848,1255517
+2001,New Jersey,Lung and Bronchus,68.2,66.5,69.9,6044,8492671
+2001,New York,Lung and Bronchus,65.4,64.3,66.6,12809,19082838
+2001,Vermont,Lung and Bronchus,64.6,58.5,71.1,412,612223
+2001,Virginia,Lung and Bronchus,60.5,58.7,62.4,4109,7198362
+2001,Wisconsin,Lung and Bronchus,66.6,64.5,68.8,3688,5406835
+2001,Alabama,Lung and Bronchus,77.9,75.4,80.5,3644,4467634
+2001,Alaska,Lung and Bronchus,74.4,65.3,84.2,283,633714
+2001,Arkansas,Lung and Bronchus,83.3,80.1,86.7,2444,2691571
+2001,Delaware,Lung and Bronchus,75.6,69.8,81.8,623,795699
+2001,District of Columbia,Lung and Bronchus,73.1,66.1,80.5,407,574504
+2001,Florida,Lung and Bronchus,75.7,74.6,76.9,15839,16356966
+2001,Georgia,Lung and Bronchus,77.9,75.8,80,5380,8377038
+2001,Illinois,Lung and Bronchus,73.3,71.7,74.8,8795,12488445
+2001,Indiana,Lung and Bronchus,82.3,80,84.6,4984,6127760
+2001,Kentucky,Lung and Bronchus,103.6,100.6,106.8,4284,4068132
+2001,Louisiana,Lung and Bronchus,82.9,80.1,85.7,3505,4477875
+2001,Maine,Lung and Bronchus,82.2,77.7,87,1202,1285692
+2001,Massachusetts,Lung and Bronchus,72.8,70.7,74.8,4876,6397634
+2001,Michigan,Lung and Bronchus,74.9,73.2,76.6,7405,9991120
+2001,Mississippi,Lung and Bronchus,null,null,null,Data Suppressed,null
+2001,Missouri,Lung and Bronchus,76.5,74.3,78.8,4549,5641142
+2001,Montana,Lung and Bronchus,70.7,65.5,76.2,692,906961
+2001,Nevada,Lung and Bronchus,79.7,75.7,83.8,1558,2098399
+2001,North Carolina,Lung and Bronchus,69.6,67.8,71.4,5603,8210122
+2001,Ohio,Lung and Bronchus,77.2,75.6,78.8,9222,11387404
+2001,Oklahoma,Lung and Bronchus,85.8,82.8,88.9,3098,3467100
+2001,Oregon,Lung and Bronchus,72.1,69.3,75,2560,3467937
+2001,Pennsylvania,Lung and Bronchus,71.4,70,72.8,10341,12298970
+2001,Rhode Island,Lung and Bronchus,72,67.2,77.1,832,1057142
+2001,South Carolina,Lung and Bronchus,76.3,73.6,79,3106,4064995
+2001,Tennessee,Lung and Bronchus,69.7,67.6,71.9,4082,5750789
+2001,Texas,Lung and Bronchus,70.9,69.6,72.1,12376,21319622
+2001,Washington,Lung and Bronchus,72,69.8,74.3,3978,5985722
+2001,West Virginia,Lung and Bronchus,93.6,89.6,97.8,2026,1801481
+2002,Utah,Lung and Bronchus,29.5,26.9,32.2,485,2324815
+2002,Hawaii,Lung and Bronchus,51.6,47.8,55.7,684,1239613
+2002,New Mexico,Lung and Bronchus,50.3,47,53.7,904,1855309
+2002,Wyoming,Lung and Bronchus,52.1,45.9,58.9,259,500017
+2002,Arizona,Lung and Bronchus,59,57,61.1,3253,5396255
+2002,California,Lung and Bronchus,57.6,56.7,58.4,17470,34871843
+2002,Colorado,Lung and Bronchus,56.4,54,58.9,2064,4490406
+2002,Idaho,Lung and Bronchus,55.3,51.2,59.6,683,1340372
+2002,Minnesota,Lung and Bronchus,58.5,56.4,60.7,2826,5018935
+2002,North Dakota,Lung and Bronchus,59.3,53.8,65.4,420,638168
+2002,District of Columbia,Lung and Bronchus,67.4,60.7,74.6,375,573158
+2002,Iowa,Lung and Bronchus,67.2,64.4,70,2228,2934234
+2002,Kansas,Lung and Bronchus,62.3,59.4,65.4,1719,2713535
+2002,Montana,Lung and Bronchus,67,62,72.3,667,911667
+2002,Nebraska,Lung and Bronchus,63,59.4,66.8,1134,1728292
+2002,New Jersey,Lung and Bronchus,67.7,66,69.4,6077,8552643
+2002,New York,Lung and Bronchus,65.7,64.6,66.9,13024,19137800
+2002,South Dakota,Lung and Bronchus,62.2,57,67.9,516,760020
+2002,Vermont,Lung and Bronchus,60.2,54.3,66.5,391,615442
+2002,Virginia,Lung and Bronchus,63.7,61.9,65.6,4414,7286873
+2002,Washington,Lung and Bronchus,69,66.9,71.3,3901,6052349
+2002,Wisconsin,Lung and Bronchus,64.3,62.2,66.4,3614,5445162
+2002,Alabama,Lung and Bronchus,76.5,74,79,3627,4480089
+2002,Alaska,Lung and Bronchus,72.4,63.7,81.9,289,642337
+2002,Arkansas,Lung and Bronchus,82.5,79.3,85.9,2455,2705927
+2002,Connecticut,Lung and Bronchus,70.2,67.5,72.9,2629,3458749
+2002,Delaware,Lung and Bronchus,73.4,67.7,79.4,622,806169
+2002,Florida,Lung and Bronchus,75.3,74.1,76.5,16096,16689370
+2002,Georgia,Lung and Bronchus,77.5,75.5,79.6,5515,8508256
+2002,Illinois,Lung and Bronchus,74.7,73.1,76.2,9043,12525556
+2002,Indiana,Lung and Bronchus,82.8,80.6,85.1,5078,6155967
+2002,Kentucky,Lung and Bronchus,102.6,99.6,105.7,4303,4089875
+2002,Louisiana,Lung and Bronchus,77.1,74.5,79.8,3316,4497267
+2002,Maine,Lung and Bronchus,79.5,75.1,84.2,1185,1295960
+2002,Maryland,Lung and Bronchus,69.6,67.3,71.9,3615,5440389
+2002,Massachusetts,Lung and Bronchus,73,71,75.1,4937,6417206
+2002,Michigan,Lung and Bronchus,73.9,72.3,75.6,7403,10015710
+2002,Mississippi,Lung and Bronchus,null,null,null,Data Suppressed,null
+2002,Missouri,Lung and Bronchus,81,78.7,83.3,4876,5674825
+2002,Nevada,Lung and Bronchus,80.2,76.3,84.3,1638,2173791
+2002,New Hampshire,Lung and Bronchus,71.2,66.6,76,891,1269089
+2002,North Carolina,Lung and Bronchus,72.6,70.8,74.5,6000,8326201
+2002,Ohio,Lung and Bronchus,76.4,74.9,78,9228,11407889
+2002,Oklahoma,Lung and Bronchus,85.7,82.7,88.7,3132,3489080
+2002,Oregon,Lung and Bronchus,71.2,68.5,74,2584,3513424
+2002,Pennsylvania,Lung and Bronchus,71.6,70.2,73,10478,12331031
+2002,Rhode Island,Lung and Bronchus,78.1,73.1,83.4,907,1065995
+2002,South Carolina,Lung and Bronchus,76.1,73.4,78.8,3163,4107795
+2002,Tennessee,Lung and Bronchus,72.1,70,74.3,4308,5795918
+2002,Texas,Lung and Bronchus,70.4,69.2,71.7,12577,21690325
+2002,West Virginia,Lung and Bronchus,91.1,87.2,95.2,1997,1805414
+2003,Utah,Lung and Bronchus,32.2,29.6,35.1,545,2360137
+2003,New Mexico,Lung and Bronchus,46.1,43.1,49.3,854,1877574
+2003,Hawaii,Lung and Bronchus,52,48.3,56,708,1251154
+2003,California,Lung and Bronchus,56.2,55.3,57,17397,35253159
+2003,Colorado,Lung and Bronchus,54.2,51.9,56.6,2041,4528732
+2003,Minnesota,Lung and Bronchus,59.6,57.5,61.8,2929,5053572
+2003,Wyoming,Lung and Bronchus,58.1,51.6,65.1,295,503453
+2003,Arizona,Lung and Bronchus,60.7,58.7,62.8,3438,5510364
+2003,District of Columbia,Lung and Bronchus,66.7,60.1,73.9,374,568502
+2003,Idaho,Lung and Bronchus,60.1,55.9,64.5,763,1363380
+2003,Kansas,Lung and Bronchus,65.1,62.2,68.2,1819,2723004
+2003,Montana,Lung and Bronchus,66.5,61.6,71.8,676,919630
+2003,Nebraska,Lung and Bronchus,64.9,61.2,68.7,1173,1738643
+2003,New Jersey,Lung and Bronchus,66.3,64.6,68,6011,8601402
+2003,New York,Lung and Bronchus,65.1,63.9,66.2,13016,19175939
+2003,North Dakota,Lung and Bronchus,63,57.2,69.1,446,638817
+2003,Oregon,Lung and Bronchus,68.6,66,71.4,2544,3547376
+2003,South Dakota,Lung and Bronchus,62.2,56.9,67.8,519,763729
+2003,Wisconsin,Lung and Bronchus,65.3,63.2,67.4,3721,5479203
+2003,Alabama,Lung and Bronchus,74.1,71.7,76.6,3564,4503491
+2003,Alaska,Lung and Bronchus,76.6,67.5,86.4,299,648414
+2003,Arkansas,Lung and Bronchus,82.2,79,85.5,2471,2724816
+2003,Connecticut,Lung and Bronchus,70.2,67.6,73,2668,3484336
+2003,Delaware,Lung and Bronchus,85,78.9,91.3,738,818003
+2003,Florida,Lung and Bronchus,74.4,73.2,75.5,16174,17004085
+2003,Georgia,Lung and Bronchus,76.1,74.1,78.2,5542,8622793
+2003,Illinois,Lung and Bronchus,74.2,72.6,75.7,9090,12556006
+2003,Indiana,Lung and Bronchus,83.2,81,85.5,5193,6196638
+2003,Iowa,Lung and Bronchus,70.2,67.3,73.1,2345,2941999
+2003,Kentucky,Lung and Bronchus,100.8,97.8,103.9,4299,4117170
+2003,Louisiana,Lung and Bronchus,80.5,77.9,83.2,3509,4521042
+2003,Maine,Lung and Bronchus,80.8,76.3,85.5,1223,1306513
+2003,Maryland,Lung and Bronchus,72.6,70.3,74.9,3836,5496269
+2003,Massachusetts,Lung and Bronchus,71.5,69.5,73.5,4873,6422565
+2003,Michigan,Lung and Bronchus,78.6,76.9,80.4,7992,10041152
+2003,Mississippi,Lung and Bronchus,81,77.7,84.4,2313,2868312
+2003,Missouri,Lung and Bronchus,83.1,80.9,85.5,5075,5709403
+2003,Nevada,Lung and Bronchus,78.3,74.5,82.2,1681,2248850
+2003,New Hampshire,Lung and Bronchus,71.1,66.5,75.9,914,1279840
+2003,North Carolina,Lung and Bronchus,73.7,71.9,75.6,6245,8422501
+2003,Ohio,Lung and Bronchus,75.2,73.7,76.7,9188,11434788
+2003,Oklahoma,Lung and Bronchus,82.5,79.6,85.5,3055,3504892
+2003,Pennsylvania,Lung and Bronchus,70.5,69.2,71.9,10411,12374658
+2003,Rhode Island,Lung and Bronchus,74.7,69.8,79.9,879,1071342
+2003,South Carolina,Lung and Bronchus,76.4,73.8,79.1,3266,4150297
+2003,Tennessee,Lung and Bronchus,77.5,75.3,79.8,4712,5847812
+2003,Texas,Lung and Bronchus,70.5,69.3,71.7,12902,22030931
+2003,Vermont,Lung and Bronchus,69.9,63.7,76.6,463,617858
+2003,Virginia,Lung and Bronchus,71.3,69.3,73.3,5014,7366977
+2003,Washington,Lung and Bronchus,70.8,68.6,73,4070,6104115
+2003,West Virginia,Lung and Bronchus,85.5,81.7,89.4,1905,1812295
+2004,Utah,Lung and Bronchus,29.5,27,32.2,511,2401580
+2004,New Mexico,Lung and Bronchus,47.6,44.5,50.8,903,1903808
+2004,Colorado,Lung and Bronchus,51.7,49.4,54,2001,4575013
+2004,Wyoming,Lung and Bronchus,53.6,47.4,60.3,276,509106
+2004,Arizona,Lung and Bronchus,59.1,57.1,61.1,3452,5652404
+2004,California,Lung and Bronchus,55.5,54.6,56.3,17436,35574576
+2004,Hawaii,Lung and Bronchus,55.7,51.8,59.8,774,1273569
+2004,Idaho,Lung and Bronchus,59,54.9,63.3,775,1391802
+2004,Minnesota,Lung and Bronchus,58.3,56.2,60.5,2914,5087713
+2004,North Dakota,Lung and Bronchus,58,52.5,63.8,421,644705
+2004,Connecticut,Lung and Bronchus,67.3,64.7,70,2582,3496094
+2004,District of Columbia,Lung and Bronchus,62.1,55.7,69.1,345,567754
+2004,Iowa,Lung and Bronchus,67.7,64.9,70.5,2284,2953635
+2004,Kansas,Lung and Bronchus,62.7,59.8,65.8,1774,2734373
+2004,Montana,Lung and Bronchus,63.5,58.7,68.5,654,930009
+2004,Nebraska,Lung and Bronchus,67.5,63.8,71.4,1240,1749370
+2004,New Jersey,Lung and Bronchus,63.3,61.6,64.9,5783,8634561
+2004,New York,Lung and Bronchus,65,63.8,66.1,13126,19171567
+2004,South Dakota,Lung and Bronchus,61.6,56.4,67.2,523,770396
+2004,Texas,Lung and Bronchus,68.3,67.1,69.5,12791,22394023
+2004,Vermont,Lung and Bronchus,65.4,59.4,71.8,441,619920
+2004,Washington,Lung and Bronchus,68.5,66.4,70.6,4052,6178645
+2004,Wisconsin,Lung and Bronchus,65.4,63.4,67.6,3790,5514026
+2004,Alabama,Lung and Bronchus,77.8,75.3,80.3,3804,4530729
+2004,Alaska,Lung and Bronchus,78.9,70,88.6,327,659286
+2004,Arkansas,Lung and Bronchus,82.5,79.3,85.8,2526,2749686
+2004,Delaware,Lung and Bronchus,82,76.2,88.2,732,830803
+2004,Florida,Lung and Bronchus,74.4,73.3,75.6,16584,17415318
+2004,Georgia,Lung and Bronchus,74,72,76,5496,8769252
+2004,Illinois,Lung and Bronchus,71.9,70.4,73.4,8882,12589773
+2004,Indiana,Lung and Bronchus,79.5,77.3,81.8,5014,6233007
+2004,Kentucky,Lung and Bronchus,103,100,106.1,4466,4146101
+2004,Louisiana,Lung and Bronchus,81.1,78.4,83.8,3581,4552238
+2004,Maine,Lung and Bronchus,82.3,77.8,87,1273,1313688
+2004,Maryland,Lung and Bronchus,69.3,67.1,71.6,3728,5546935
+2004,Massachusetts,Lung and Bronchus,72.1,70.1,74.2,4958,6412281
+2004,Michigan,Lung and Bronchus,74.7,73,76.4,7679,10055315
+2004,Mississippi,Lung and Bronchus,80.8,77.6,84.2,2335,2889010
+2004,Missouri,Lung and Bronchus,80.6,78.4,82.9,4978,5747741
+2004,Nevada,Lung and Bronchus,76.9,73.3,80.7,1724,2346222
+2004,New Hampshire,Lung and Bronchus,75.2,70.6,80.1,986,1290121
+2004,North Carolina,Lung and Bronchus,76.2,74.3,78,6607,8553152
+2004,Ohio,Lung and Bronchus,76.8,75.3,78.4,9462,11452251
+2004,Oklahoma,Lung and Bronchus,81.4,78.5,84.3,3057,3525233
+2004,Oregon,Lung and Bronchus,69.7,67.1,72.4,2641,3569463
+2004,Pennsylvania,Lung and Bronchus,69.7,68.3,71,10327,12410722
+2004,Rhode Island,Lung and Bronchus,75.5,70.6,80.7,903,1074579
+2004,South Carolina,Lung and Bronchus,73.2,70.7,75.8,3208,4210921
+2004,Tennessee,Lung and Bronchus,83.6,81.3,85.9,5163,5910809
+2004,Virginia,Lung and Bronchus,70.6,68.7,72.6,5086,7475575
+2004,West Virginia,Lung and Bronchus,88.9,85,93,1985,1816438
+2005,Utah,Lung and Bronchus,31.4,28.8,34.1,560,2457719
+2005,Colorado,Lung and Bronchus,50.1,47.9,52.4,1994,4631888
+2005,New Mexico,Lung and Bronchus,48.8,45.7,52,957,1932274
+2005,Arizona,Lung and Bronchus,58.7,56.8,60.6,3569,5839077
+2005,California,Lung and Bronchus,54.8,54,55.7,17556,35827943
+2005,Hawaii,Lung and Bronchus,54.3,50.5,58.3,774,1292729
+2005,Minnesota,Lung and Bronchus,57.5,55.5,59.7,2925,5119598
+2005,Wyoming,Lung and Bronchus,54.9,48.7,61.6,291,514157
+2005,Connecticut,Lung and Bronchus,67.7,65.1,70.3,2622,3506956
+2005,District of Columbia,Lung and Bronchus,63.6,57.2,70.7,356,567136
+2005,Idaho,Lung and Bronchus,60.3,56.2,64.6,818,1428241
+2005,Kansas,Lung and Bronchus,65.8,62.9,68.9,1888,2745299
+2005,Nebraska,Lung and Bronchus,64.5,60.9,68.3,1199,1761497
+2005,New Jersey,Lung and Bronchus,66.6,64.9,68.3,6122,8651974
+2005,New York,Lung and Bronchus,64.8,63.7,66,13190,19132610
+2005,North Dakota,Lung and Bronchus,62.9,57.3,69,458,646089
+2005,South Dakota,Lung and Bronchus,60.9,55.8,66.4,527,775493
+2005,Texas,Lung and Bronchus,68.3,67.1,69.5,13141,22773020
+2005,Washington,Lung and Bronchus,68.3,66.2,70.4,4127,6257305
+2005,Wisconsin,Lung and Bronchus,63.2,61.2,65.3,3712,5546166
+2005,Alabama,Lung and Bronchus,76.1,73.7,78.6,3766,4565917
+2005,Alaska,Lung and Bronchus,79.2,70.4,88.8,337,666946
+2005,Arkansas,Lung and Bronchus,83.9,80.7,87.2,2609,2781097
+2005,Delaware,Lung and Bronchus,84.9,79,91.1,783,845150
+2005,Florida,Lung and Bronchus,73,71.9,74.2,16694,17842038
+2005,Georgia,Lung and Bronchus,73.7,71.7,75.7,5650,8925922
+2005,Illinois,Lung and Bronchus,72.5,71,74,9055,12609903
+2005,Indiana,Lung and Bronchus,80.8,78.6,83.1,5170,6278616
+2005,Iowa,Lung and Bronchus,70.9,68,73.8,2421,2964454
+2005,Kentucky,Lung and Bronchus,101,98,104,4460,4182742
+2005,Louisiana,Lung and Bronchus,78.2,75.5,80.8,3417,4411396
+2005,Maine,Lung and Bronchus,80.4,76.1,85,1265,1318787
+2005,Maryland,Lung and Bronchus,69,66.8,71.2,3755,5592379
+2005,Massachusetts,Lung and Bronchus,74.8,72.8,76.9,5182,6403290
+2005,Michigan,Lung and Bronchus,75.8,74.1,77.5,7878,10051137
+2005,Mississippi,Lung and Bronchus,77.7,74.5,81,2272,2876229
+2005,Missouri,Lung and Bronchus,83.8,81.5,86.1,5252,5790300
+2005,Montana,Lung and Bronchus,70.6,65.6,75.9,744,940102
+2005,Nevada,Lung and Bronchus,71.4,67.9,75.1,1635,2432143
+2005,New Hampshire,Lung and Bronchus,76.4,71.8,81.2,1032,1298492
+2005,North Carolina,Lung and Bronchus,78.4,76.6,80.3,6981,8705407
+2005,Ohio,Lung and Bronchus,76.9,75.3,78.5,9562,11463320
+2005,Oklahoma,Lung and Bronchus,82,79.1,84.9,3119,3548597
+2005,Oregon,Lung and Bronchus,70.2,67.5,72.9,2719,3613202
+2005,Pennsylvania,Lung and Bronchus,71.8,70.4,73.1,10696,12449990
+2005,Rhode Island,Lung and Bronchus,74.5,69.6,79.6,876,1067916
+2005,South Carolina,Lung and Bronchus,77,74.4,79.6,3454,4270150
+2005,Tennessee,Lung and Bronchus,83.9,81.7,86.2,5314,5991057
+2005,Vermont,Lung and Bronchus,70.2,64,76.8,478,621215
+2005,Virginia,Lung and Bronchus,70.9,69,72.8,5227,7577105
+2005,West Virginia,Lung and Bronchus,94.3,90.3,98.4,2131,1820492
+2006,Utah,Lung and Bronchus,30,27.6,32.6,570,2525507
+2006,New Mexico,Lung and Bronchus,46.6,43.7,49.7,940,1962137
+2006,Colorado,Lung and Bronchus,49.2,47,51.4,2032,4720423
+2006,Hawaii,Lung and Bronchus,52.3,48.6,56.2,757,1309731
+2006,Wyoming,Lung and Bronchus,50.7,44.8,57.2,272,522667
+2006,Arizona,Lung and Bronchus,56.2,54.3,58.1,3529,6029141
+2006,California,Lung and Bronchus,54.2,53.4,55,17598,36021202
+2006,Idaho,Lung and Bronchus,56.4,52.5,60.5,796,1468669
+2006,Minnesota,Lung and Bronchus,55.8,53.8,57.9,2903,5163555
+2006,North Dakota,Lung and Bronchus,55,49.8,60.7,404,649422
+2006,District of Columbia,Lung and Bronchus,63.7,57.2,70.8,354,570681
+2006,Kansas,Lung and Bronchus,65.2,62.3,68.2,1883,2762931
+2006,Maryland,Lung and Bronchus,67.9,65.8,70.2,3774,5627367
+2006,Montana,Lung and Bronchus,66.3,61.5,71.4,718,952692
+2006,Nebraska,Lung and Bronchus,63.7,60.1,67.4,1203,1772693
+2006,New Jersey,Lung and Bronchus,66.1,64.5,67.8,6135,8661679
+2006,New York,Lung and Bronchus,65.3,64.2,66.5,13348,19104631
+2006,Oregon,Lung and Bronchus,67.4,64.8,70,2688,3670883
+2006,South Dakota,Lung and Bronchus,62.1,57,67.6,546,783033
+2006,Texas,Lung and Bronchus,65,63.9,66.1,12924,23359580
+2006,Virginia,Lung and Bronchus,68.4,66.6,70.4,5156,7673725
+2006,Washington,Lung and Bronchus,67.4,65.3,69.5,4178,6370753
+2006,Wisconsin,Lung and Bronchus,64.6,62.6,66.7,3844,5577655
+2006,Alabama,Lung and Bronchus,75.3,73,77.8,3828,4628981
+2006,Alaska,Lung and Bronchus,76.3,67.9,85.4,350,675302
+2006,Arkansas,Lung and Bronchus,78.5,75.5,81.7,2499,2821761
+2006,Connecticut,Lung and Bronchus,69.3,66.7,72,2714,3517460
+2006,Delaware,Lung and Bronchus,86,80.2,92.2,815,859268
+2006,Florida,Lung and Bronchus,70.9,69.8,72,16481,18166990
+2006,Georgia,Lung and Bronchus,73.4,71.5,75.4,5873,9155813
+2006,Illinois,Lung and Bronchus,73.6,72.1,75.1,9280,12643955
+2006,Indiana,Lung and Bronchus,82.6,80.4,84.8,5348,6332669
+2006,Iowa,Lung and Bronchus,69.2,66.4,72,2389,2982644
+2006,Kentucky,Lung and Bronchus,101.9,99,104.9,4589,4219239
+2006,Louisiana,Lung and Bronchus,78.7,76,81.4,3421,4302665
+2006,Maine,Lung and Bronchus,80.7,76.3,85.3,1279,1323619
+2006,Massachusetts,Lung and Bronchus,72.6,70.6,74.7,5073,6410084
+2006,Michigan,Lung and Bronchus,74.7,73,76.3,7888,10036081
+2006,Mississippi,Lung and Bronchus,79.4,76.2,82.7,2359,2904978
+2006,Missouri,Lung and Bronchus,81.9,79.7,84.2,5227,5842704
+2006,Nevada,Lung and Bronchus,74.9,71.4,78.6,1788,2522658
+2006,New Hampshire,Lung and Bronchus,70.9,66.5,75.5,982,1308389
+2006,North Carolina,Lung and Bronchus,77.1,75.3,78.9,7086,8917270
+2006,Ohio,Lung and Bronchus,76.6,75.1,78.2,9656,11481213
+2006,Oklahoma,Lung and Bronchus,82.4,79.6,85.4,3200,3594090
+2006,Pennsylvania,Lung and Bronchus,70.6,69.3,72,10644,12510809
+2006,Rhode Island,Lung and Bronchus,71.5,66.8,76.6,853,1063096
+2006,South Carolina,Lung and Bronchus,74.4,71.9,76.9,3477,4357847
+2006,Tennessee,Lung and Bronchus,83.1,80.9,85.3,5409,6088766
+2006,Vermont,Lung and Bronchus,81.7,75,88.8,570,622892
+2006,West Virginia,Lung and Bronchus,91.5,87.6,95.5,2098,1827912
+2007,Utah,Lung and Bronchus,28.6,26.2,31.1,551,2597746
+2007,New Mexico,Lung and Bronchus,47.5,44.5,50.6,980,1990070
+2007,Wyoming,Lung and Bronchus,49.3,43.5,55.6,271,534876
+2007,California,Lung and Bronchus,52.8,52,53.6,17448,36250311
+2007,Colorado,Lung and Bronchus,51.3,49.1,53.5,2202,4803868
+2007,Hawaii,Lung and Bronchus,52.7,49.1,56.6,794,1315675
+2007,North Dakota,Lung and Bronchus,55.1,49.8,60.8,408,652822
+2007,Arizona,Lung and Bronchus,56.4,54.5,58.2,3642,6167681
+2007,Idaho,Lung and Bronchus,56.4,52.6,60.4,823,1505105
+2007,Minnesota,Lung and Bronchus,57.9,55.8,60,3058,5207203
+2007,Montana,Lung and Bronchus,66.2,61.5,71.2,748,964706
+2007,Nebraska,Lung and Bronchus,67.3,63.6,71.1,1291,1783440
+2007,New Jersey,Lung and Bronchus,65.7,64.1,67.4,6155,8677885
+2007,New York,Lung and Bronchus,65.4,64.3,66.5,13539,19132335
+2007,Oregon,Lung and Bronchus,64.6,62.1,67.1,2646,3722417
+2007,South Dakota,Lung and Bronchus,61.9,56.8,67.3,558,791623
+2007,Texas,Lung and Bronchus,64.8,63.7,65.9,13248,23831983
+2007,Virginia,Lung and Bronchus,66,64.2,67.9,5079,7751000
+2007,Washington,Lung and Bronchus,62,60,64,3961,6461587
+2007,Wisconsin,Lung and Bronchus,63.6,61.6,65.7,3851,5610775
+2007,Alaska,Lung and Bronchus,68.8,60.9,77.2,330,680300
+2007,Connecticut,Lung and Bronchus,67.7,65.1,70.3,2692,3527270
+2007,District of Columbia,Lung and Bronchus,60.4,54,67.3,335,574404
+2007,Iowa,Lung and Bronchus,68.8,66.1,71.7,2416,2999212
+2007,Kansas,Lung and Bronchus,65.1,62.2,68.1,1915,2783785
+2007,Maryland,Lung and Bronchus,67.2,65,69.4,3780,5653408
+2007,Mississippi,Lung and Bronchus,83.3,80.1,86.7,2522,2928350
+2007,Missouri,Lung and Bronchus,78.4,76.2,80.6,5084,5887612
+2007,Nevada,Lung and Bronchus,70.5,67.2,74,1740,2601072
+2007,New Hampshire,Lung and Bronchus,70.8,66.4,75.4,999,1312540
+2007,North Carolina,Lung and Bronchus,75.6,73.9,77.4,7198,9118037
+2007,Ohio,Lung and Bronchus,74.9,73.4,76.4,9567,11500468
+2007,Oklahoma,Lung and Bronchus,81.9,79.1,84.8,3227,3634349
+2007,Pennsylvania,Lung and Bronchus,71.1,69.8,72.5,10851,12563937
+2007,Rhode Island,Lung and Bronchus,76.6,71.7,81.8,924,1057315
+2007,South Carolina,Lung and Bronchus,75,72.5,77.5,3607,4444110
+2007,Tennessee,Lung and Bronchus,79.3,77.2,81.5,5296,6175727
+2007,Vermont,Lung and Bronchus,72.4,66.2,79,522,623481
+2007,West Virginia,Lung and Bronchus,87.7,83.9,91.6,2032,1834052
+2007,Alabama,Lung and Bronchus,74.8,72.5,77.2,3868,4672840
+2007,Arkansas,Lung and Bronchus,84.1,80.9,87.3,2705,2848650
+2007,Delaware,Lung and Bronchus,76.3,70.9,82,745,871749
+2007,Florida,Lung and Bronchus,69.3,68.2,70.4,16413,18367842
+2007,Georgia,Lung and Bronchus,74.4,72.5,76.3,6146,9349988
+2007,Illinois,Lung and Bronchus,73.2,71.7,74.7,9365,12695866
+2007,Indiana,Lung and Bronchus,79.8,77.6,81.9,5288,6379599
+2007,Kentucky,Lung and Bronchus,99.7,96.8,102.6,4612,4256672
+2007,Louisiana,Lung and Bronchus,77.4,74.8,80,3449,4375581
+2007,Maine,Lung and Bronchus,78.8,74.5,83.2,1291,1327040
+2007,Massachusetts,Lung and Bronchus,71.8,69.8,73.9,5073,6431559
+2007,Michigan,Lung and Bronchus,75.9,74.3,77.6,8151,10001284
+2008,Utah,Lung and Bronchus,25.5,23.4,27.9,513,2663029
+2008,New Mexico,Lung and Bronchus,45.5,42.7,48.5,969,2010662
+2008,Wyoming,Lung and Bronchus,52.9,47,59.4,302,546043
+2008,California,Lung and Bronchus,51,50.2,51.7,17323,36604337
+2008,Colorado,Lung and Bronchus,51.4,49.3,53.6,2283,4889730
+2008,Hawaii,Lung and Bronchus,52.7,49.1,56.5,809,1332213
+2008,North Dakota,Lung and Bronchus,53,47.9,58.5,402,657569
+2008,Arizona,Lung and Bronchus,54.8,53,56.6,3643,6280362
+2008,District of Columbia,Lung and Bronchus,58.7,52.4,65.5,328,580236
+2008,Idaho,Lung and Bronchus,56.1,52.3,60,849,1534320
+2008,Minnesota,Lung and Bronchus,56.6,54.6,58.6,3074,5247018
+2008,Wisconsin,Lung and Bronchus,63.8,61.8,65.9,3958,5640996
+2008,Connecticut,Lung and Bronchus,67.2,64.7,69.8,2712,3545579
+2008,Kansas,Lung and Bronchus,64.3,61.4,67.3,1915,2808076
+2008,Maryland,Lung and Bronchus,67.1,64.9,69.2,3861,5684965
+2008,Montana,Lung and Bronchus,61.2,56.7,66,706,976415
+2008,Nebraska,Lung and Bronchus,62.7,59.2,66.4,1214,1796378
+2008,New Jersey,Lung and Bronchus,64.7,63.1,66.3,6157,8711090
+2008,New York,Lung and Bronchus,65.5,64.4,66.6,13750,19212436
+2008,Oregon,Lung and Bronchus,65.7,63.2,68.2,2759,3768748
+2008,South Dakota,Lung and Bronchus,61.1,56.1,66.4,555,799124
+2008,Texas,Lung and Bronchus,63.8,62.7,64.9,13442,24309039
+2008,Vermont,Lung and Bronchus,68,62.1,74.4,496,624151
+2008,Virginia,Lung and Bronchus,67.9,66.1,69.8,5354,7833496
+2008,Washington,Lung and Bronchus,64.4,62.4,66.4,4214,6562231
+2008,West Virginia,Lung and Bronchus,90.5,86.6,94.4,2139,1840310
+2008,Alabama,Lung and Bronchus,78.2,75.8,80.7,4129,4718206
+2008,Alaska,Lung and Bronchus,71.7,63.7,80.3,349,687455
+2008,Arkansas,Lung and Bronchus,81.4,78.3,84.5,2687,2874554
+2008,Delaware,Lung and Bronchus,77,71.7,82.7,773,883874
+2008,Florida,Lung and Bronchus,69.3,68.3,70.4,16797,18527305
+2008,Georgia,Lung and Bronchus,72.9,71.1,74.8,6236,9504843
+2008,Illinois,Lung and Bronchus,72.1,70.6,73.6,9398,12747038
+2008,Indiana,Lung and Bronchus,79.7,77.6,81.9,5397,6424806
+2008,Iowa,Lung and Bronchus,69,66.3,71.9,2443,3016734
+2008,Kentucky,Lung and Bronchus,101.9,99,104.8,4805,4289878
+2008,Louisiana,Lung and Bronchus,77.2,74.6,79.8,3515,4435586
+2008,Maine,Lung and Bronchus,77.1,72.9,81.5,1285,1330509
+2008,Massachusetts,Lung and Bronchus,72,70.1,74.1,5181,6468967
+2008,Michigan,Lung and Bronchus,72,70.4,73.6,7871,9946889
+2008,Mississippi,Lung and Bronchus,85.2,82,88.6,2613,2947806
+2008,Missouri,Lung and Bronchus,77.7,75.6,79.9,5147,5923916
+2008,Nevada,Lung and Bronchus,70.8,67.5,74.2,1795,2653630
+2008,New Hampshire,Lung and Bronchus,71.2,66.9,75.7,1034,1315906
+2008,North Carolina,Lung and Bronchus,74.3,72.6,76.1,7317,9309449
+2008,Ohio,Lung and Bronchus,74.9,73.4,76.4,9747,11515391
+2008,Oklahoma,Lung and Bronchus,81,78.3,83.9,3267,3668976
+2008,Pennsylvania,Lung and Bronchus,69.5,68.1,70.8,10743,12612285
+2008,Rhode Island,Lung and Bronchus,75.2,70.4,80.3,920,1055003
+2008,South Carolina,Lung and Bronchus,72,69.7,74.5,3596,4528996
+2008,Tennessee,Lung and Bronchus,79.4,77.3,81.5,5464,6247411
+2009,Utah,Lung and Bronchus,30.3,28,32.8,627,2723421
+2009,New Mexico,Lung and Bronchus,44,41.3,46.9,965,2036802
+2009,California,Lung and Bronchus,52,51.2,52.7,18043,36961229
+2009,Colorado,Lung and Bronchus,49.1,47.1,51.2,2249,4972195
+2009,Hawaii,Lung and Bronchus,48.8,45.3,52.4,769,1346717
+2009,Idaho,Lung and Bronchus,52.3,48.8,56.1,814,1554439
+2009,Wyoming,Lung and Bronchus,52.4,46.6,58.7,306,559851
+2009,Arizona,Lung and Bronchus,56.9,55.1,58.7,3896,6343154
+2009,Minnesota,Lung and Bronchus,57.3,55.3,59.3,3186,5281203
+2009,Nebraska,Lung and Bronchus,58.1,54.8,61.6,1155,1812683
+2009,North Dakota,Lung and Bronchus,54.5,49.3,60.1,420,664968
+2009,South Dakota,Lung and Bronchus,58.6,53.7,63.8,545,807067
+2009,Texas,Lung and Bronchus,59.5,58.5,60.6,12918,24801761
+2009,Connecticut,Lung and Bronchus,65.4,62.9,67.9,2666,3561807
+2009,District of Columbia,Lung and Bronchus,62.1,55.7,69,356,592228
+2009,Florida,Lung and Bronchus,68,67,69,16842,18652644
+2009,Iowa,Lung and Bronchus,68.5,65.8,71.3,2472,3032870
+2009,Kansas,Lung and Bronchus,63.3,60.4,66.2,1930,2832704
+2009,Maryland,Lung and Bronchus,62.5,60.5,64.6,3697,5730388
+2009,Montana,Lung and Bronchus,61.5,57,66.2,724,983982
+2009,Nevada,Lung and Bronchus,65.3,62.2,68.5,1730,2684665
+2009,New Jersey,Lung and Bronchus,62.2,60.6,63.8,6028,8755602
+2009,New York,Lung and Bronchus,64.3,63.3,65.4,13704,19307066
+2009,Oregon,Lung and Bronchus,63.8,61.4,66.3,2735,3808600
+2009,Virginia,Lung and Bronchus,67.1,65.3,69,5447,7925937
+2009,Washington,Lung and Bronchus,63.8,61.8,65.7,4322,6667426
+2009,Wisconsin,Lung and Bronchus,60.9,59,62.9,3850,5669264
+2009,Alabama,Lung and Bronchus,75.4,73,77.7,4052,4757938
+2009,Alaska,Lung and Bronchus,72.5,64.6,81,366,698895
+2009,Arkansas,Lung and Bronchus,76.8,73.8,79.9,2575,2896843
+2009,Delaware,Lung and Bronchus,73.1,67.9,78.6,746,891730
+2009,Georgia,Lung and Bronchus,72,70.2,73.8,6321,9620846
+2009,Illinois,Lung and Bronchus,72.9,71.4,74.3,9618,12796778
+2009,Indiana,Lung and Bronchus,77.9,75.8,80,5372,6459325
+2009,Kentucky,Lung and Bronchus,99,96.2,101.9,4752,4317074
+2009,Louisiana,Lung and Bronchus,74.6,72.1,77.1,3481,4491648
+2009,Maine,Lung and Bronchus,79.4,75.1,83.8,1345,1329590
+2009,Massachusetts,Lung and Bronchus,71,69.1,73,5197,6517613
+2009,Michigan,Lung and Bronchus,69.9,68.4,71.5,7787,9901591
+2009,Mississippi,Lung and Bronchus,79.5,76.4,82.8,2496,2958774
+2009,Missouri,Lung and Bronchus,79.6,77.5,81.8,5367,5961088
+2009,New Hampshire,Lung and Bronchus,69.9,65.6,74.3,1038,1316102
+2009,North Carolina,Lung and Bronchus,74.2,72.5,75.9,7516,9449566
+2009,Ohio,Lung and Bronchus,75.9,74.4,77.4,10002,11528896
+2009,Oklahoma,Lung and Bronchus,74.1,71.4,76.8,3022,3717572
+2009,Pennsylvania,Lung and Bronchus,69.2,67.9,70.6,10829,12666858
+2009,Rhode Island,Lung and Bronchus,74.8,69.9,79.9,909,1053646
+2009,South Carolina,Lung and Bronchus,73.4,71.1,75.9,3751,4589872
+2009,Tennessee,Lung and Bronchus,80.7,78.6,82.9,5679,6306019
+2009,Vermont,Lung and Bronchus,72.1,66,78.6,532,624817
+2009,West Virginia,Lung and Bronchus,85.3,81.6,89.1,2045,1847775
+2010,Utah,Lung and Bronchus,27.6,25.3,29.9,582,2775260
+2010,Colorado,Lung and Bronchus,46.6,44.7,48.7,2197,5048029
+2010,Hawaii,Lung and Bronchus,45.5,42.2,48.9,732,1363817
+2010,New Mexico,Lung and Bronchus,42.9,40.2,45.8,963,2064607
+2010,Arizona,Lung and Bronchus,51.8,50.1,53.5,3671,6407002
+2010,California,Lung and Bronchus,48.5,47.8,49.3,17300,37327690
+2010,Idaho,Lung and Bronchus,52.3,48.7,56,837,1570912
+2010,Wyoming,Lung and Bronchus,51.2,45.5,57.5,304,564376
+2010,Kansas,Lung and Bronchus,59.8,57,62.6,1852,2858403
+2010,Minnesota,Lung and Bronchus,57.1,55.2,59.2,3230,5310711
+2010,Montana,Lung and Bronchus,58.2,53.9,62.8,695,990507
+2010,New Jersey,Lung and Bronchus,58.9,57.3,60.4,5777,8803708
+2010,North Dakota,Lung and Bronchus,56.5,51.2,62.1,440,674518
+2010,Oregon,Lung and Bronchus,59.2,56.9,61.6,2614,3837073
+2010,Texas,Lung and Bronchus,58.4,57.4,59.4,13051,25241648
+2010,Alaska,Lung and Bronchus,68.2,60.7,76.2,362,714015
+2010,Connecticut,Lung and Bronchus,63.6,61.2,66.1,2658,3580171
+2010,District of Columbia,Lung and Bronchus,60.7,54.4,67.5,353,605040
+2010,Florida,Lung and Bronchus,66.3,65.3,67.3,16785,18846461
+2010,Georgia,Lung and Bronchus,66.6,64.9,68.4,6077,9712696
+2010,Iowa,Lung and Bronchus,66.2,63.6,69,2402,3050223
+2010,Maryland,Lung and Bronchus,60.7,58.7,62.7,3662,5788099
+2010,Massachusetts,Lung and Bronchus,66.5,64.6,68.4,4953,6564943
+2010,Nebraska,Lung and Bronchus,60.9,57.5,64.5,1226,1829956
+2010,Nevada,Lung and Bronchus,62.2,59.2,65.3,1672,2702797
+2010,New York,Lung and Bronchus,62.3,61.3,63.4,13487,19405185
+2010,Pennsylvania,Lung and Bronchus,67.3,66,68.6,10652,12711063
+2010,Rhode Island,Lung and Bronchus,67.5,62.9,72.4,834,1053169
+2010,South Dakota,Lung and Bronchus,61.7,56.7,67,582,816227
+2010,Virginia,Lung and Bronchus,63.6,61.8,65.3,5281,8025206
+2010,Washington,Lung and Bronchus,63.5,61.6,65.4,4404,6741386
+2010,Wisconsin,Lung and Bronchus,63.9,61.9,65.9,4091,5690403
+2010,Alabama,Lung and Bronchus,73.2,70.9,75.5,4037,4785579
+2010,Arkansas,Lung and Bronchus,76.7,73.7,79.7,2629,2921737
+2010,Delaware,Lung and Bronchus,70.6,65.5,75.9,741,899712
+2010,Illinois,Lung and Bronchus,69.2,67.8,70.6,9288,12841196
+2010,Indiana,Lung and Bronchus,76,73.9,78.1,5324,6490029
+2010,Kentucky,Lung and Bronchus,100.8,97.9,103.7,4914,4347948
+2010,Louisiana,Lung and Bronchus,73.8,71.3,76.3,3504,4544871
+2010,Maine,Lung and Bronchus,74.6,70.5,78.9,1294,1327568
+2010,Michigan,Lung and Bronchus,71.4,69.9,73,8094,9876731
+2010,Mississippi,Lung and Bronchus,77.2,74.2,80.4,2473,2970437
+2010,Missouri,Lung and Bronchus,75.7,73.6,77.8,5214,5995681
+2010,New Hampshire,Lung and Bronchus,70.5,66.3,75,1078,1316700
+2010,North Carolina,Lung and Bronchus,72.8,71.1,74.5,7549,9574247
+2010,Ohio,Lung and Bronchus,72.7,71.3,74.2,9762,11539282
+2010,Oklahoma,Lung and Bronchus,70.5,68,73.1,2944,3759529
+2010,South Carolina,Lung and Bronchus,70,67.7,72.3,3705,4635834
+2010,Tennessee,Lung and Bronchus,78.6,76.6,80.8,5633,6355882
+2010,Vermont,Lung and Bronchus,71.8,65.8,78.2,545,625842
+2010,West Virginia,Lung and Bronchus,80.5,76.9,84.2,1953,1854315
+2011,Utah,Lung and Bronchus,29.9,27.6,32.3,656,2815430
+2011,Wyoming,Lung and Bronchus,47.2,41.8,53.2,285,567602
+2011,California,Lung and Bronchus,45.6,44.9,46.3,16698,37672654
+2011,Colorado,Lung and Bronchus,45.5,43.6,47.5,2219,5116411
+2011,Hawaii,Lung and Bronchus,47.1,43.7,50.6,765,1378323
+2011,New Mexico,Lung and Bronchus,42.5,39.8,45.2,979,2077744
+2011,Arizona,Lung and Bronchus,52.9,51.2,54.6,3861,6465488
+2011,Idaho,Lung and Bronchus,52.5,49,56.2,861,1583180
+2011,South Dakota,Lung and Bronchus,58.3,53.4,63.4,556,823338
+2011,Texas,Lung and Bronchus,55.4,54.5,56.4,12829,25644424
+2011,District of Columbia,Lung and Bronchus,57,50.9,63.5,337,620336
+2011,Maryland,Lung and Bronchus,59.7,57.7,61.7,3694,5843115
+2011,Minnesota,Lung and Bronchus,53.9,52,55.9,3147,5345967
+2011,Nebraska,Lung and Bronchus,57.7,54.4,61.1,1178,1841641
+2011,New Jersey,Lung and Bronchus,60,58.5,61.6,5997,8844694
+2011,South Carolina,Lung and Bronchus,68.9,66.6,71.2,3723,4672744
+2011,Vermont,Lung and Bronchus,67.9,62,74.1,527,626210
+2011,Virginia,Lung and Bronchus,60.8,59.1,62.5,5176,8107548
+2011,Washington,Lung and Bronchus,60.2,58.4,62.1,4299,6819155
+2011,Wisconsin,Lung and Bronchus,62.9,61,64.9,4136,5705812
+2011,Alaska,Lung and Bronchus,66,58.7,73.9,352,722259
+2011,Connecticut,Lung and Bronchus,63,60.5,65.4,2651,3591927
+2011,Florida,Lung and Bronchus,63.2,62.2,64.1,16462,19097369
+2011,Georgia,Lung and Bronchus,67.5,65.8,69.2,6293,9810595
+2011,Illinois,Lung and Bronchus,68.4,67,69.8,9384,12862298
+2011,Iowa,Lung and Bronchus,64,61.4,66.6,2368,3063690
+2011,Kansas,Lung and Bronchus,60.3,57.5,63.1,1897,2868756
+2011,Massachusetts,Lung and Bronchus,66.4,64.5,68.3,5024,6612178
+2011,Michigan,Lung and Bronchus,68.9,67.4,70.5,7963,9876199
+2011,Montana,Lung and Bronchus,60.8,56.4,65.5,742,996866
+2011,Nevada,Lung and Bronchus,62.8,59.8,65.9,1750,2718170
+2011,New York,Lung and Bronchus,62.6,61.5,63.6,13807,19526372
+2011,North Dakota,Lung and Bronchus,60.5,55.1,66.3,481,684830
+2011,Oregon,Lung and Bronchus,62.2,59.9,64.6,2789,3865845
+2011,Pennsylvania,Lung and Bronchus,67.2,65.9,68.5,10759,12742811
+2011,Rhode Island,Lung and Bronchus,65.5,61,70.3,820,1052154
+2011,Tennessee,Lung and Bronchus,76.2,74.2,78.3,5594,6396281
+2011,West Virginia,Lung and Bronchus,83.3,79.7,87.1,2042,1854891
+2011,Alabama,Lung and Bronchus,71.9,69.6,74.2,4015,4798649
+2011,Arkansas,Lung and Bronchus,77.5,74.6,80.5,2692,2938640
+2011,Delaware,Lung and Bronchus,76.2,71,81.7,818,907884
+2011,Indiana,Lung and Bronchus,75.5,73.4,77.5,5390,6515358
+2011,Kentucky,Lung and Bronchus,95.6,92.8,98.4,4756,4368505
+2011,Louisiana,Lung and Bronchus,70.9,68.5,73.3,3439,4574388
+2011,Maine,Lung and Bronchus,70,66.1,74.1,1232,1327968
+2011,Mississippi,Lung and Bronchus,74.9,71.9,78,2450,2977452
+2011,Missouri,Lung and Bronchus,76.4,74.3,78.5,5313,6010280
+2011,New Hampshire,Lung and Bronchus,70.6,66.4,75,1093,1318345
+2011,North Carolina,Lung and Bronchus,70.3,68.7,71.9,7497,9662940
+2011,Ohio,Lung and Bronchus,72.3,70.9,73.8,9824,11543332
+2011,Oklahoma,Lung and Bronchus,73.2,70.6,75.9,3096,3785232
+2012,Utah,Lung and Bronchus,30.8,28.5,33.2,698,2854222
+2012,New Mexico,Lung and Bronchus,41.3,38.7,44,984,2083590
+2012,California,Lung and Bronchus,45,44.3,45.7,16895,38019006
+2012,Colorado,Lung and Bronchus,45.7,43.8,47.6,2328,5186330
+2012,Hawaii,Lung and Bronchus,45.5,42.3,48.9,778,1392772
+2012,Arizona,Lung and Bronchus,50.7,49.1,52.4,3836,6544211
+2012,Idaho,Lung and Bronchus,52.9,49.4,56.5,901,1594673
+2012,Wyoming,Lung and Bronchus,48.6,43.2,54.5,310,576608
+2012,Alaska,Lung and Bronchus,59.8,53.1,67.1,346,730825
+2012,Kansas,Lung and Bronchus,59.8,57.1,62.6,1932,2885316
+2012,Maryland,Lung and Bronchus,58,56.1,60,3698,5891680
+2012,Minnesota,Lung and Bronchus,55.7,53.8,57.7,3333,5377695
+2012,Montana,Lung and Bronchus,54.7,50.7,59,698,1003522
+2012,Nevada,Lung and Bronchus,59.9,57.1,62.9,1742,2752410
+2012,New Jersey,Lung and Bronchus,57.5,56,59,5870,8882095
+2012,North Dakota,Lung and Bronchus,59.4,54.1,65,485,701380
+2012,Oregon,Lung and Bronchus,58.2,56,60.5,2699,3893920
+2012,South Dakota,Lung and Bronchus,57.9,53.1,62.9,566,832576
+2012,Texas,Lung and Bronchus,55.8,54.8,56.7,13311,26078327
+2012,Connecticut,Lung and Bronchus,61.6,59.2,64,2667,3597705
+2012,District of Columbia,Lung and Bronchus,61.5,55.4,68.2,383,635630
+2012,Florida,Lung and Bronchus,63.5,62.5,64.4,17019,19341327
+2012,Georgia,Lung and Bronchus,68.2,66.5,69.9,6664,9911171
+2012,Illinois,Lung and Bronchus,67,65.6,68.4,9359,12878494
+2012,Iowa,Lung and Bronchus,63.3,60.8,66,2370,3074386
+2012,Massachusetts,Lung and Bronchus,65,63.2,66.9,5034,6659627
+2012,Michigan,Lung and Bronchus,67.1,65.6,68.7,7922,9886610
+2012,Nebraska,Lung and Bronchus,60.7,57.3,64.2,1264,1854862
+2012,New Hampshire,Lung and Bronchus,66.3,62.3,70.6,1047,1320923
+2012,New York,Lung and Bronchus,60.9,59.9,62,13711,19625409
+2012,Pennsylvania,Lung and Bronchus,64.8,63.5,66.1,10560,12768034
+2012,Vermont,Lung and Bronchus,65.2,59.7,71.2,535,625606
+2012,Virginia,Lung and Bronchus,62.3,60.6,64,5484,8188656
+2012,Washington,Lung and Bronchus,60.1,58.3,61.9,4411,6890899
+2012,Wisconsin,Lung and Bronchus,61,59.1,62.9,4093,5721075
+2012,Alabama,Lung and Bronchus,70.3,68.1,72.6,4030,4813946
+2012,Arkansas,Lung and Bronchus,76.8,73.9,79.8,2725,2949208
+2012,Delaware,Lung and Bronchus,69.4,64.5,74.6,772,916868
+2012,Indiana,Lung and Bronchus,72.3,70.3,74.3,5270,6535665
+2012,Kentucky,Lung and Bronchus,94.4,91.7,97.2,4815,4383673
+2012,Louisiana,Lung and Bronchus,71,68.7,73.4,3575,4602681
+2012,Maine,Lung and Bronchus,75.7,71.7,79.9,1376,1328101
+2012,Mississippi,Lung and Bronchus,76.3,73.4,79.4,2539,2982963
+2012,Missouri,Lung and Bronchus,76.7,74.7,78.8,5487,6023267
+2012,North Carolina,Lung and Bronchus,70,68.4,71.6,7708,9755299
+2012,Ohio,Lung and Bronchus,69.7,68.3,71.2,9677,11546969
+2012,Oklahoma,Lung and Bronchus,71.2,68.7,73.8,3068,3815298
+2012,Rhode Island,Lung and Bronchus,71.3,66.7,76.2,926,1052761
+2012,South Carolina,Lung and Bronchus,69.2,67.1,71.5,3905,4719009
+2012,Tennessee,Lung and Bronchus,76.2,74.2,78.2,5745,6450632
+2012,West Virginia,Lung and Bronchus,80.1,76.6,83.8,2009,1855360
+2013,Utah,Lung and Bronchus,26.8,24.7,29,624,2899961
+2013,New Mexico,Lung and Bronchus,40.8,38.3,43.5,989,2085161
+2013,Wyoming,Lung and Bronchus,39.5,34.7,44.7,261,582341
+2013,California,Lung and Bronchus,43.4,42.7,44,16837,38347383
+2013,Colorado,Lung and Bronchus,43.4,41.6,45.3,2283,5262556
+2013,Arizona,Lung and Bronchus,50.6,49,52.2,3974,6616124
+2013,Hawaii,Lung and Bronchus,50.1,46.8,53.7,867,1408038
+2013,Idaho,Lung and Bronchus,48.8,45.5,52.2,851,1610187
+2013,Texas,Lung and Bronchus,53.6,52.6,54.5,13205,26479279
+2013,Alaska,Lung and Bronchus,55.5,49.1,62.4,326,736760
+2013,District of Columbia,Lung and Bronchus,54.8,49,61.1,341,650114
+2013,Maryland,Lung and Bronchus,57.9,56,59.8,3787,5932654
+2013,Minnesota,Lung and Bronchus,57.5,55.5,59.4,3526,5416074
+2013,Montana,Lung and Bronchus,59.4,55.2,63.9,770,1011921
+2013,New Jersey,Lung and Bronchus,58,56.5,59.5,6031,8913735
+2013,North Dakota,Lung and Bronchus,57.8,52.6,63.4,473,722908
+2013,Oregon,Lung and Bronchus,58.6,56.4,60.8,2779,3919664
+2013,Virginia,Lung and Bronchus,58.9,57.3,60.5,5332,8261689
+2013,Washington,Lung and Bronchus,56.2,54.5,57.9,4273,6963410
+2013,Alabama,Lung and Bronchus,67.9,65.7,70.1,3939,4827660
+2013,Connecticut,Lung and Bronchus,62.6,60.2,65,2754,3602470
+2013,Florida,Lung and Bronchus,60.6,59.7,61.6,16736,19584927
+2013,Georgia,Lung and Bronchus,65.2,63.6,66.9,6522,9981773
+2013,Illinois,Lung and Bronchus,64,62.7,65.4,9181,12890403
+2013,Iowa,Lung and Bronchus,63.7,61.2,66.4,2431,3089876
+2013,Kansas,Lung and Bronchus,63.1,60.3,65.9,2056,2892900
+2013,Louisiana,Lung and Bronchus,68.6,66.3,71,3520,4626795
+2013,Massachusetts,Lung and Bronchus,63.1,61.3,64.9,5016,6711138
+2013,Michigan,Lung and Bronchus,64.5,63,66,7792,9899219
+2013,Nebraska,Lung and Bronchus,62.2,58.8,65.7,1320,1867414
+2013,Nevada,Lung and Bronchus,61.3,58.5,64.3,1846,2786547
+2013,New Hampshire,Lung and Bronchus,67.3,63.3,71.4,1113,1322622
+2013,New York,Lung and Bronchus,60.1,59.1,61.2,13779,19712514
+2013,Pennsylvania,Lung and Bronchus,65,63.8,66.3,10762,12778450
+2013,South Carolina,Lung and Bronchus,66.9,64.8,69.1,3891,4765862
+2013,South Dakota,Lung and Bronchus,62.2,57.4,67.5,621,842513
+2013,Vermont,Lung and Bronchus,61.1,55.7,66.9,504,626044
+2013,Wisconsin,Lung and Bronchus,60.9,59.1,62.9,4177,5736673
+2013,Arkansas,Lung and Bronchus,80.3,77.3,83.3,2894,2956780
+2013,Delaware,Lung and Bronchus,70.8,66,75.9,826,925114
+2013,Indiana,Lung and Bronchus,74.3,72.4,76.4,5530,6567484
+2013,Kentucky,Lung and Bronchus,95.3,92.6,98,4932,4399121
+2013,Maine,Lung and Bronchus,75.9,71.9,80.1,1406,1327975
+2013,Mississippi,Lung and Bronchus,77.2,74.2,80.3,2622,2987721
+2013,Missouri,Lung and Bronchus,75,73,77,5468,6041142
+2013,North Carolina,Lung and Bronchus,71.1,69.6,72.7,8031,9849812
+2013,Ohio,Lung and Bronchus,69.2,67.8,70.6,9780,11567845
+2013,Oklahoma,Lung and Bronchus,71.1,68.6,73.6,3135,3849840
+2013,Rhode Island,Lung and Bronchus,72,67.4,76.9,933,1052784
+2013,Tennessee,Lung and Bronchus,75.8,73.8,77.8,5829,6490795
+2013,West Virginia,Lung and Bronchus,81.9,78.4,85.6,2090,1852333
+2014,Utah,Lung and Bronchus,26.1,24,28.2,624,2938671
+2014,New Mexico,Lung and Bronchus,39.9,37.4,42.5,987,2083207
+2014,California,Lung and Bronchus,42.6,42,43.3,17064,38701278
+2014,Colorado,Lung and Bronchus,42.7,41,44.5,2347,5342311
+2014,Hawaii,Lung and Bronchus,44.2,41.1,47.5,787,1417710
+2014,Wyoming,Lung and Bronchus,45.4,40.3,51,305,583334
+2014,Arizona,Lung and Bronchus,48.1,46.6,49.7,3911,6706435
+2014,District of Columbia,Lung and Bronchus,49.9,44.4,55.8,319,660797
+2014,Idaho,Lung and Bronchus,51.5,48.2,54.9,944,1630391
+2014,Minnesota,Lung and Bronchus,53.3,51.5,55.2,3359,5452649
+2014,Texas,Lung and Bronchus,52.4,51.5,53.4,13367,26954436
+2014,Alaska,Lung and Bronchus,56.2,50,63,349,736759
+2014,Connecticut,Lung and Bronchus,59.2,57,61.6,2666,3600188
+2014,Florida,Lung and Bronchus,59.2,58.3,60.2,16903,19897747
+2014,Maryland,Lung and Bronchus,56.5,54.6,58.3,3799,5970245
+2014,Montana,Lung and Bronchus,54.5,50.5,58.7,728,1019931
+2014,Nebraska,Lung and Bronchus,57.6,54.4,60.9,1237,1880920
+2014,Nevada,Lung and Bronchus,55.2,52.6,57.9,1740,2831730
+2014,New Jersey,Lung and Bronchus,56.1,54.7,57.6,5956,8943010
+2014,New York,Lung and Bronchus,57.7,56.8,58.7,13575,19773580
+2014,Oregon,Lung and Bronchus,56.3,54.2,58.5,2757,3960673
+2014,South Dakota,Lung and Bronchus,58.9,54.2,64,598,849455
+2014,Virginia,Lung and Bronchus,58.1,56.6,59.7,5412,8316902
+2014,Washington,Lung and Bronchus,56.4,54.7,58.2,4437,7046931
+2014,Wisconsin,Lung and Bronchus,59.6,57.8,61.5,4180,5751272
+2014,Alabama,Lung and Bronchus,65.9,63.8,68,3955,4840037
+2014,Delaware,Lung and Bronchus,68.1,63.5,73.1,816,934805
+2014,Georgia,Lung and Bronchus,64.5,62.9,66.1,6691,10083850
+2014,Illinois,Lung and Bronchus,66.2,64.8,67.5,9662,12882438
+2014,Iowa,Lung and Bronchus,65.2,62.6,67.8,2509,3105563
+2014,Kansas,Lung and Bronchus,61,58.3,63.7,2015,2899553
+2014,Louisiana,Lung and Bronchus,69,66.7,71.3,3589,4648797
+2014,Massachusetts,Lung and Bronchus,62.4,60.6,64.2,5059,6757925
+2014,Michigan,Lung and Bronchus,65.3,63.8,66.8,8044,9914675
+2014,New Hampshire,Lung and Bronchus,63.1,59.3,67.1,1080,1328684
+2014,North Dakota,Lung and Bronchus,60.3,55.1,66,509,738658
+2014,Pennsylvania,Lung and Bronchus,63.7,62.5,64.9,10741,12790341
+2014,South Carolina,Lung and Bronchus,66.8,64.7,69,4010,4824758
+2014,Vermont,Lung and Bronchus,63.9,58.4,69.8,528,625665
+2014,Arkansas,Lung and Bronchus,79,76.1,82,2903,2964800
+2014,Indiana,Lung and Bronchus,72.6,70.6,74.5,5534,6593182
+2014,Kentucky,Lung and Bronchus,93.5,90.9,96.2,4972,4410415
+2014,Maine,Lung and Bronchus,72.9,69,76.9,1372,1328903
+2014,Mississippi,Lung and Bronchus,75.3,72.4,78.3,2614,2988578
+2014,Missouri,Lung and Bronchus,73.1,71.2,75.1,5439,6058014
+2014,North Carolina,Lung and Bronchus,69.1,67.6,70.7,8082,9941160
+2014,Ohio,Lung and Bronchus,69.4,68,70.8,9996,11593741
+2014,Oklahoma,Lung and Bronchus,71.6,69.2,74.2,3220,3875008
+2014,Rhode Island,Lung and Bronchus,71.1,66.5,76,933,1054782
+2014,Tennessee,Lung and Bronchus,74.9,73,76.9,5902,6540007
+2014,West Virginia,Lung and Bronchus,79.6,76.2,83.2,2052,1847624
+2015,Utah,Lung and Bronchus,26.2,24.2,28.3,651,2984917
+2015,New Mexico,Lung and Bronchus,39.8,37.3,42.4,1007,2082264
+2015,Wyoming,Lung and Bronchus,42.2,37.3,47.6,282,586102
+2015,California,Lung and Bronchus,41.6,40.9,42.2,17138,39032444
+2015,Colorado,Lung and Bronchus,41,39.3,42.8,2331,5440445
+2015,Arizona,Lung and Bronchus,47.3,45.8,48.8,4004,6802262
+2015,District of Columbia,Lung and Bronchus,44.4,39.4,49.9,297,672736
+2015,Hawaii,Lung and Bronchus,44.2,41.2,47.5,823,1426320
+2015,Nevada,Lung and Bronchus,50.2,47.7,52.7,1650,2883057
+2015,Oregon,Lung and Bronchus,51,49,53,2575,4016537
+2015,Texas,Lung and Bronchus,49.9,49.1,50.8,13210,27454880
+2015,Washington,Lung and Bronchus,53.7,52.1,55.4,4359,7152818
+2015,Idaho,Lung and Bronchus,51.2,47.9,54.6,954,1649324
+2015,Maryland,Lung and Bronchus,56,54.2,57.8,3854,6000561
+2015,Minnesota,Lung and Bronchus,58.3,56.4,60.2,3777,5483238
+2015,Montana,Lung and Bronchus,54,50.1,58.2,741,1028317
+2015,Nebraska,Lung and Bronchus,57.6,54.4,60.9,1266,1893564
+2015,New Jersey,Lung and Bronchus,55.6,54.2,57.1,6019,8960001
+2015,New York,Lung and Bronchus,58.9,57.9,59.9,14079,19819347
+2015,North Dakota,Lung and Bronchus,55.2,50.2,60.6,464,754859
+2015,South Dakota,Lung and Bronchus,57.4,52.8,62.4,594,854036
+2015,Virginia,Lung and Bronchus,57.1,55.6,58.6,5493,8366767
+2015,Wisconsin,Lung and Bronchus,59.1,57.3,61,4225,5759744
+2015,Alaska,Lung and Bronchus,54.4,48.5,60.9,360,737979
+2015,Connecticut,Lung and Bronchus,57.2,54.9,59.5,2611,3593862
+2015,Florida,Lung and Bronchus,56.8,55.9,57.7,16760,20268567
+2015,Louisiana,Lung and Bronchus,65.5,63.3,67.7,3506,4671211
+2015,Massachusetts,Lung and Bronchus,61.6,59.9,63.4,5121,6794002
+2015,Michigan,Lung and Bronchus,63.6,62.2,65.1,7972,9918170
+2015,New Hampshire,Lung and Bronchus,63,59.3,66.9,1120,1330134
+2015,North Carolina,Lung and Bronchus,68.6,67.1,70.1,8284,10041769
+2015,Oklahoma,Lung and Bronchus,68.8,66.4,71.3,3172,3904353
+2015,Pennsylvania,Lung and Bronchus,63.6,62.4,64.9,10879,12791124
+2015,South Carolina,Lung and Bronchus,65.5,63.4,67.6,4077,4892423
+2015,Vermont,Lung and Bronchus,61.6,56.2,67.3,525,624455
+2015,Alabama,Lung and Bronchus,64.1,62.1,66.2,3921,4850858
+2015,Georgia,Lung and Bronchus,61.7,60.1,63.2,6629,10199533
+2015,Illinois,Lung and Bronchus,64.1,62.8,65.4,9554,12862051
+2015,Iowa,Lung and Bronchus,64.5,62,67.1,2529,3118473
+2015,Kansas,Lung and Bronchus,60.1,57.5,62.8,2030,2905789
+2015,Maine,Lung and Bronchus,70.8,67,74.8,1366,1327787
+2015,Mississippi,Lung and Bronchus,73.9,71.1,76.9,2614,2985297
+2015,Missouri,Lung and Bronchus,71.9,69.9,73.8,5436,6072640
+2015,Ohio,Lung and Bronchus,69.5,68.1,70.9,10183,11606027
+2015,Rhode Island,Lung and Bronchus,69.9,65.4,74.7,931,1055916
+2015,Tennessee,Lung and Bronchus,78,76,80,6291,6590726
+2015,West Virginia,Lung and Bronchus,79.8,76.3,83.4,2093,1839767
+2015,Arkansas,Lung and Bronchus,78.3,75.4,81.2,2929,2975626
+2015,Delaware,Lung and Bronchus,71.8,67.1,76.8,884,944107
+2015,Indiana,Lung and Bronchus,75,73,77,5810,6610596
+2015,Kentucky,Lung and Bronchus,91.7,89.1,94.3,4951,4422057
+2016,Utah,Lung and Bronchus,25.1,23.1,27.1,652,3044321
+2016,California,Lung and Bronchus,38.2,37.6,38.8,16177,39296476
+2016,Colorado,Lung and Bronchus,40.2,38.6,41.9,2346,5530105
+2016,District of Columbia,Lung and Bronchus,38.9,34.2,44,257,684336
+2016,New Mexico,Lung and Bronchus,36.4,34.1,38.9,950,2085432
+2016,Arizona,Lung and Bronchus,44.3,42.9,45.8,3886,6908642
+2016,Hawaii,Lung and Bronchus,44.5,41.4,47.7,820,1428683
+2016,Idaho,Lung and Bronchus,47.8,44.7,51,920,1680026
+2016,Wyoming,Lung and Bronchus,44.7,39.8,50.2,316,584910
+2016,Montana,Lung and Bronchus,52.2,48.3,56.2,727,1038656
+2016,Nebraska,Lung and Bronchus,51.2,48.2,54.3,1160,1907603
+2016,Nevada,Lung and Bronchus,50.5,48,53,1724,2939254
+2016,New Jersey,Lung and Bronchus,53.6,52.2,55,5880,8978416
+2016,North Dakota,Lung and Bronchus,53.6,48.7,58.9,459,755548
+2016,Oregon,Lung and Bronchus,50.1,48.2,52.1,2608,4085989
+2016,Texas,Lung and Bronchus,48.5,47.7,49.4,13199,27904862
+2016,Washington,Lung and Bronchus,53.2,51.7,54.9,4468,7280934
+2016,Alaska,Lung and Bronchus,54.9,49,61.4,362,741522
+2016,Connecticut,Lung and Bronchus,58.6,56.4,60.9,2724,3587685
+2016,Florida,Lung and Bronchus,55.3,54.5,56.1,16878,20656589
+2016,Iowa,Lung and Bronchus,58.6,56.2,61.1,2341,3130869
+2016,Kansas,Lung and Bronchus,55.4,52.9,58,1918,2907731
+2016,Maryland,Lung and Bronchus,53.8,52.1,55.6,3802,6024752
+2016,Massachusetts,Lung and Bronchus,56.7,55,58.3,4835,6823721
+2016,Minnesota,Lung and Bronchus,55.1,53.3,57,3651,5525050
+2016,New York,Lung and Bronchus,56.9,55.9,57.9,13871,19836286
+2016,South Carolina,Lung and Bronchus,59.7,57.8,61.6,3854,4959822
+2016,South Dakota,Lung and Bronchus,58.2,53.6,63.1,620,861542
+2016,Virginia,Lung and Bronchus,56.6,55.1,58.2,5635,8414380
+2016,Wisconsin,Lung and Bronchus,58.3,56.5,60.1,4276,5772917
+2016,Alabama,Lung and Bronchus,64.2,62.1,66.2,3985,4860545
+2016,Delaware,Lung and Bronchus,67.1,62.6,71.8,862,952698
+2016,Georgia,Lung and Bronchus,61.2,59.7,62.7,6785,10313620
+2016,Illinois,Lung and Bronchus,62.2,60.9,63.5,9374,12835726
+2016,Louisiana,Lung and Bronchus,63.8,61.6,66,3492,4686157
+2016,Michigan,Lung and Bronchus,60,58.6,61.4,7676,9933445
+2016,Missouri,Lung and Bronchus,68,66.1,69.9,5256,6091176
+2016,New Hampshire,Lung and Bronchus,62.4,58.7,66.2,1134,1335015
+2016,North Carolina,Lung and Bronchus,65.3,63.9,66.8,8092,10156689
+2016,Ohio,Lung and Bronchus,64.9,63.6,66.2,9652,11622554
+2016,Oklahoma,Lung and Bronchus,63.3,61,65.6,2955,3921207
+2016,Pennsylvania,Lung and Bronchus,62.9,61.7,64.1,10941,12787085
+2016,Rhode Island,Lung and Bronchus,68.5,64.1,73.2,937,1057566
+2016,Vermont,Lung and Bronchus,60.5,55.3,66.1,530,623354
+2016,Arkansas,Lung and Bronchus,76.5,73.7,79.4,2884,2988231
+2016,Indiana,Lung and Bronchus,70.4,68.5,72.3,5567,6634007
+2016,Kentucky,Lung and Bronchus,86.8,84.3,89.4,4761,4436113
+2016,Maine,Lung and Bronchus,73.5,69.7,77.5,1453,1330232
+2016,Mississippi,Lung and Bronchus,75,72.1,77.9,2684,2985415
+2016,Tennessee,Lung and Bronchus,70.9,69.1,72.8,5900,6649404
+2016,West Virginia,Lung and Bronchus,75.4,72.1,78.9,1993,1828637
