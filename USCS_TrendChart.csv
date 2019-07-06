@@ -1,0 +1,19 @@
+Area,CancerType,Year,AgeAdjustedRate,CaseCount,Population
+United States,Hodgkin Lymphoma,1999,2.8,7671,272809488
+United States,Hodgkin Lymphoma,2000,2.8,7853,275879626
+United States,Hodgkin Lymphoma,2001,2.8,7837,282115961
+United States,Hodgkin Lymphoma,2002,2.9,8242,284766512
+United States,Hodgkin Lymphoma,2003,2.8,8236,290107933
+United States,Hodgkin Lymphoma,2004,2.8,8362,292805298
+United States,Hodgkin Lymphoma,2005,2.9,8605,295516599
+United States,Hodgkin Lymphoma,2006,2.8,8514,298379912
+United States,Hodgkin Lymphoma,2007,2.9,8646,301231207
+United States,Hodgkin Lymphoma,2008,2.9,8932,304093966
+United States,Hodgkin Lymphoma,2009,2.8,8692,306771529
+United States,Hodgkin Lymphoma,2010,2.8,8757,309338421
+United States,Hodgkin Lymphoma,2011,2.8,8730,311644280
+United States,Hodgkin Lymphoma,2012,2.7,8518,313993272
+United States,Hodgkin Lymphoma,2013,2.7,8550,316234505
+United States,Hodgkin Lymphoma,2014,2.7,8876,318622525
+United States,Hodgkin Lymphoma,2015,2.6,8625,321039839
+United States,Hodgkin Lymphoma,2016,2.5,8389,323405935
