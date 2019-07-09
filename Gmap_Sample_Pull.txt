@@ -1,0 +1,30 @@
+import gmaps
+import requests
+import json
+import pandas as pd
+
+gkey = "AIzaSyANDUyHfFvch3pn4MUnOOemh7pkxdl13V4"
+df = pd.read_csv("annual_aqi_by_county_2016.csv")
+
+lats = []
+longs = []
+
+for k,v in df.iterrows():
+    state = v.State
+    county = v.County
+    target_city = "{}, {}".format(county,state)
+    target_url = 'https://maps.googleapis.com/maps/api/geocode/json?address={0}&key={1}'.format(target_city, gkey)
+    geo_data = requests.get(target_url).json()
+    lat = geo_data["results"][0]["geometry"]["location"]["lat"]
+    lng = geo_data["results"][0]["geometry"]["location"]["lng"]
+    lats.append(lat)
+    longs.append(lng)
+    
+df.loc[:,'lats'] = lats
+df.loc[:,'longs'] = longs
+
+locations = df[['lats', 'longs']]
+weights = df['Median AQI']
+fig = gmaps.figure()
+fig.add_layer(gmaps.heatmap_layer(locations, weights=weights))
+fig
