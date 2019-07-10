@@ -1,0 +1,266 @@
+﻿YEAR,LocationDesc,Data_Value
+2011,Alabama,76.4
+2012,Alabama,75.6
+2013,Alabama,73.4
+2014,Alabama,69.9
+2015,Alabama,71.4
+2011,Alaska,69.5
+2012,Alaska,69.2
+2013,Alaska,69.3
+2014,Alaska,67.7
+2015,Alaska,72.9
+2011,Arizona,68
+2012,Arizona,64.4
+2013,Arizona,67.6
+2014,Arizona,67.1
+2015,Arizona,65.4
+2011,Arkansas,74.7
+2012,Arkansas,73
+2013,Arkansas,75
+2014,Arkansas,71.5
+2015,Arkansas,70.1
+2011,California,63.2
+2012,California,62.5
+2013,California,63.4
+2014,California,59.8
+2015,California,61.8
+2011,Colorado,67.3
+2012,Colorado,67.2
+2013,Colorado,67.6
+2014,Colorado,68
+2015,Colorado,65.9
+2011,Connecticut,69.2
+2012,Connecticut,67.3
+2013,Connecticut,65
+2014,Connecticut,66.2
+2015,Connecticut,66.7
+2011,Delaware,74.8
+2012,Delaware,74.2
+2013,Delaware,68.7
+2014,Delaware,74
+2015,Delaware,68.7
+2011,District of Columbia,61.7
+2012,District of Columbia,58.2
+2013,District of Columbia,57.2
+2014,District of Columbia,61.3
+2015,District of Columbia,54.2
+2011,Florida,70
+2012,Florida,69.1
+2013,Florida,68.7
+2014,Florida,65.6
+2015,Florida,67.2
+2011,Georgia,67.5
+2012,Georgia,66.5
+2013,Georgia,72.3
+2014,Georgia,71.1
+2015,Georgia,69.6
+2011,Guam,69.1
+2012,Guam,76.6
+2013,Guam,73.1
+2014,Guam,67.9
+2015,Guam,72
+2011,Hawaii,72.4
+2012,Hawaii,70.3
+2013,Hawaii,67.2
+2014,Hawaii,68.2
+2015,Hawaii,71.3
+2011,Idaho,72.1
+2012,Idaho,75.2
+2013,Idaho,71.1
+2014,Idaho,69.7
+2015,Idaho,71.8
+2011,Illinois,68.4
+2012,Illinois,70.9
+2013,Illinois,68.6
+2014,Illinois,68.3
+2015,Illinois,65.9
+2011,Indiana,75.7
+2012,Indiana,75.1
+2013,Indiana,75.9
+2014,Indiana,73.7
+2015,Indiana,71.5
+2011,Iowa,76.3
+2012,Iowa,71.8
+2013,Iowa,76.9
+2014,Iowa,74.3
+2015,Iowa,72.4
+2011,Kansas,76.9
+2012,Kansas,72
+2013,Kansas,72.5
+2014,Kansas,72.5
+2015,Kansas,70.1
+2011,Kentucky,81.2
+2012,Kentucky,82.1
+2013,Kentucky,77.3
+2014,Kentucky,78.1
+2015,Kentucky,79
+2011,Louisiana,75
+2012,Louisiana,74.8
+2013,Louisiana,71
+2014,Louisiana,69.9
+2015,Louisiana,69.2
+2011,Maine,77.3
+2012,Maine,78.4
+2013,Maine,74.5
+2014,Maine,76
+2015,Maine,79.2
+2011,Maryland,71.8
+2012,Maryland,70.2
+2013,Maryland,71.4
+2014,Maryland,68.3
+2015,Maryland,67.6
+2011,Massachusetts,73
+2012,Massachusetts,73.1
+2013,Massachusetts,70.9
+2014,Massachusetts,68.1
+2015,Massachusetts,68.1
+2011,Michigan,74.3
+2012,Michigan,72.3
+2013,Michigan,75.5
+2014,Michigan,73.6
+2015,Michigan,71.8
+2011,Minnesota,69.3
+2012,Minnesota,70.4
+2013,Minnesota,68.9
+2014,Minnesota,70.1
+2015,Minnesota,69.4
+2011,Mississippi,72.6
+2012,Mississippi,74.3
+2013,Mississippi,71.1
+2014,Mississippi,67.3
+2015,Mississippi,68.9
+2011,Missouri,77.8
+2012,Missouri,76.3
+2013,Missouri,75.3
+2014,Missouri,76.7
+2015,Missouri,74.2
+2011,Montana,74.2
+2012,Montana,72.2
+2013,Montana,73.9
+2014,Montana,70
+2015,Montana,68.1
+2011,Nebraska,72.8
+2012,Nebraska,73.8
+2013,Nebraska,74.4
+2014,Nebraska,70.4
+2015,Nebraska,72.8
+2011,Nevada,78.5
+2012,Nevada,68.9
+2013,Nevada,68.1
+2014,Nevada,63.9
+2015,Nevada,66.6
+2011,New Hampshire,79
+2012,New Hampshire,78.1
+2013,New Hampshire,75.8
+2014,New Hampshire,73.9
+2015,New Hampshire,70.8
+2011,New Jersey,67.6
+2012,New Jersey,66.6
+2013,New Jersey,67.8
+2014,New Jersey,62.6
+2015,New Jersey,63.2
+2011,New Mexico,63.1
+2012,New Mexico,65.7
+2013,New Mexico,66.3
+2014,New Mexico,66.1
+2015,New Mexico,64.5
+2011,New York,66.9
+2012,New York,65.7
+2013,New York,67.4
+2014,New York,65.8
+2015,New York,66.9
+2011,North Carolina,71.8
+2012,North Carolina,71
+2013,North Carolina,70.1
+2014,North Carolina,68
+2015,North Carolina,71.3
+2011,North Dakota,72.8
+2012,North Dakota,73
+2013,North Dakota,73.8
+2014,North Dakota,72.3
+2015,North Dakota,73
+2011,Ohio,76
+2012,Ohio,77.5
+2013,Ohio,76.3
+2014,Ohio,74.1
+2015,Ohio,72.7
+2011,Oklahoma,76.2
+2012,Oklahoma,72.9
+2013,Oklahoma,73.3
+2014,Oklahoma,71.7
+2015,Oklahoma,72.1
+2011,Oregon,72.8
+2012,Oregon,66.7
+2013,Oregon,73.6
+2014,Oregon,71.5
+2015,Oregon,67.8
+2011,Pennsylvania,75.3
+2012,Pennsylvania,73.3
+2013,Pennsylvania,74.8
+2014,Pennsylvania,70
+2015,Pennsylvania,73.2
+2011,Puerto Rico,72.9
+2012,Puerto Rico,74.7
+2013,Puerto Rico,65.4
+2014,Puerto Rico,67.3
+2015,Puerto Rico,71.3
+2011,Rhode Island,71.6
+2012,Rhode Island,69.5
+2013,Rhode Island,71.8
+2014,Rhode Island,69.7
+2015,Rhode Island,69.1
+2011,South Carolina,71.7
+2012,South Carolina,67.7
+2013,South Carolina,70.2
+2014,South Carolina,68.9
+2015,South Carolina,69.6
+2011,South Dakota,67.1
+2012,South Dakota,69.2
+2013,South Dakota,68.8
+2014,South Dakota,69.5
+2015,South Dakota,69.6
+2011,Tennessee,79.7
+2012,Tennessee,75.5
+2013,Tennessee,75.6
+2014,Tennessee,77.4
+2015,Tennessee,72.4
+2011,Texas,62.6
+2012,Texas,63.5
+2013,Texas,62.1
+2014,Texas,59.5
+2015,Texas,62.3
+2011,Utah,72
+2012,Utah,68.2
+2013,Utah,68.8
+2014,Utah,66.4
+2015,Utah,69.4
+2011,Vermont,77
+2012,Vermont,71.9
+2013,Vermont,75.3
+2014,Vermont,71.5
+2015,Vermont,74.4
+2011,Virginia,71.9
+2012,Virginia,68.7
+2013,Virginia,70.5
+2014,Virginia,71.6
+2015,Virginia,71.4
+2011,Washington,69.1
+2012,Washington,68
+2013,Washington,70.6
+2014,Washington,71
+2015,Washington,66.6
+2011,West Virginia,83.1
+2012,West Virginia,85.2
+2013,West Virginia,83.5
+2014,West Virginia,84.4
+2015,West Virginia,81.6
+2011,Wisconsin,71.1
+2012,Wisconsin,67.2
+2013,Wisconsin,69.5
+2014,Wisconsin,74.1
+2015,Wisconsin,65.6
+2011,Wyoming,76.1
+2012,Wyoming,71.1
+2013,Wyoming,74.8
+2014,Wyoming,73.5
+2015,Wyoming,73.4
