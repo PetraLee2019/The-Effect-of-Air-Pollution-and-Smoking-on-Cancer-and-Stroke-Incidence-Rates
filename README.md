@@ -11,7 +11,8 @@ Import pandas and matplotlib libraries to explore data from the 'United States E
 ## A paragraph from an article, Fox News
 Oddly, smokers don't seem to be at increased risk for melanoma. In fact, some studies have suggested they might even have a smaller chance of getting the disease -- although scientists are still trying to figure out if that's really true.
 ![Image](https://github.com/PetraLee2019/The-Effect-of-Air-Pollution-and-Smoking-on-Cancer-and-Stroke-Incidence-Rates/blob/master/Images/smoke_skin.png?raw=true)
-![Image]()
+
+![Image](https://github.com/PetraLee2019/The-Effect-of-Air-Pollution-and-Smoking-on-Cancer-and-Stroke-Incidence-Rates/blob/master/Images/All_posibilities_Seaborn.png?raw=true)
 
 ## Steps:
 - To research various cancer, air pollution, and smoking habit data
